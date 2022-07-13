@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Screenmax1234
+- 👀 I’m interested in programing 
+- 🌱 I’m currently learning bash
